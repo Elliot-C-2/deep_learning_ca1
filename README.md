@@ -1,4 +1,4 @@
-EMNIST Handwritten Letters Classification
+# EMNIST Handwritten Letters Classification
 
 This project focuses on building and optimizing Deep Learning models to classify handwritten letters using the EMNIST dataset. The dataset consists of 28x28 grayscale images mapping to 26 distinct classes (A through Z), merging uppercase and lowercase letters into single categories.
 Project Objective
